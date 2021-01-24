@@ -4,48 +4,48 @@
       "category": "Quiz",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Salut",
-      "correct_answer": "Xin chào ",
+      "question": "Bút mực",
+      "correct_answer": "Pen ",
       "incorrect_answers": [
-        "Tạm biệt",
-        "Cảm ơn",
-        "Xin lỗi"
+        "Table",
+        "Book",
+        "Light"
       ]
     },
     {
       "category": "Quiz",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Oui",
-      "correct_answer": "Được",
+      "question": "Pack",
+      "correct_answer": "Ba lô",
       "incorrect_answers": [
-        "Không",
-        "Không có gì",
-        "Xin lỗi"
+        "Công viên",
+        "Nhân viên",
+        "Máy tính"
       ]
     },
     {
       "category": "Quiz",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Génial",
-      "correct_answer": "Tuyệt vời",
+      "question": "Cái kéo",
+      "correct_answer": "Scissors",
       "incorrect_answers": [
-        "Xấu hổ",
-        "Xúc động",
-        "Không biết"
+        "Glue",
+        "Rule",
+        "Blue"
       ]
     },
     {
       "category": "Quiz",
       "type": "multiple",
       "difficulty": "medium",
-      "question": "Ça va, _____ ?",
-      "correct_answer": "et toi",
+      "question": "hi, _____ ?",
+      "correct_answer": "How are you",
       "incorrect_answers": [
-        "m'appelle",
-        "de rien",
-        "au revoir"
+        "I have lunch",
+        "Im fine",
+        "Nice"
       ]
     },
     {
